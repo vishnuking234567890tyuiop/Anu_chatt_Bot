@@ -1,7 +1,7 @@
 {
-    "name": "BikashRobot", 
+    "name": "Mis_Annuu_chatbot", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg",
+    "logo": "https://te.legra.ph/file/a7b8068c4f245a4300cd5.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
